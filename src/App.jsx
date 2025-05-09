@@ -47,23 +47,27 @@ function App() {
 
      ${nameuser}:
 
-     🌟 Luz y Sal BookStore 🌟
-
+    
      📌 *Información de tú premio:*
 
      - Titulo : ${regalo}.
      - Tipo :  ${tipo}
      - Número seleccionado: ${numeroselecc}
 
-     🌟 *¡Mil gracias por participar en el sorteo Luz y Sal!* 🌟
+     🌟 *Agradecemos tu participar en el sorteo, librería Luz y Sal BookStore!* 🌟
 
-    Desde el lunes 12 de mayo te puedes recoger
+    A partir del día 15 de mayo de 2025, puedes acercarte a reclamar tu premio a la siguiente dirección :
+
+    FUSCIA ACCESORIOS
+    Carrera 9 # 21 - 93
+    Tunja- Boyacá
+
+    Horarios de entrega:
 
     Lunes a viernes de 9 am a 6:30 pm
     Sábados 9:30 am a 6:00 pm
 
-    FUSCIA ACCESORIOS
-    Carrera 9 # 21 - 93
+    Nos vemos en una próxima oportunidad. ¡Bendiciones!.
 
      `;
 
