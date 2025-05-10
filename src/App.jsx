@@ -54,7 +54,7 @@ function App() {
      - Tipo :  ${tipo}
      - Número seleccionado: ${numeroselecc}
 
-     🌟 *Agradecemos tu participar en el sorteo, librería Luz y Sal BookStore!* 🌟
+     🌟 *Agradecemos tu participación en el sorteo, librería Luz y Sal BookStore!* 🌟
 
     A partir del día 15 de mayo de 2025, puedes acercarte a reclamar tu premio a la siguiente dirección :
 
