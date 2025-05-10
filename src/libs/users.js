@@ -44,8 +44,10 @@ export const users = [
     { "id": 53, "nombre": "Daniel Barriga", "celular": "573204998235" },
     { "id": 54, "nombre": "Javier Joya Vargas", "celular": "573144511316" },
     { "id": 55, "nombre": "Dannia EstefaniI Lopez", "celular": "573213304923" },
+    { "id": 59, "nombre": "Lina Marcela Cárdenas", "celular": "573044635971" },
     { "id": 60, "nombre": "Cathe Alvarez", "celular": "573150631440" },
     { "id": 61, "nombre": "Daniela Niño", "celular": "573143867994" },
+    { "id": 64, "nombre": "Catalina  Roberto Torres", "celular": "573104816579" },
     { "id": 70, "nombre": "Johanna González", "celular": "12038320573" },
     { "id": 72, "nombre": "José Alberto  León Castillo", "celular": "573114880841" },
     { "id": 75, "nombre": "John Freddy Daza Alvarado", "celular": "573204628284" },
@@ -58,5 +60,7 @@ export const users = [
     { "id": 92, "nombre": "Hector Rodriguez", "celular": "3102212899" },
     { "id": 93, "nombre": "Leidy Rodríguez", "celular": "573134495849" },
     { "id": 94, "nombre": "Diego Alejandro Pedraza Ramirez", "celular": "573178229399" },
+    { "id": 95, "nombre": "Giovanny Gonzalez", "celular": "573124806992" },
+    { "id": 99, "nombre": "Fernando Pesca", "celular": "573114587262" },
     { "id": 100, "nombre": "Sara Manosalva", "celular": "573208913600" }
 ]

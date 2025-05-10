@@ -58,5 +58,8 @@ export const regalos = [
     { id: 57, nombre: "Familias confiadas", tipo: "Libro" },
     { id: 58, nombre: "Cuadro La Mujer Sabia, más Cristomicina", tipo: "Regalo" },
     { id: 59, nombre: "¿Por qué? Por causa de la unción", tipo: "Libro" },
-    { id: 60, nombre: "Biblia de referencia Thompson", tipo: "Biblia" }
+    { id: 60, nombre: "Agorafobia", tipo: "Libro" },
+    { id: 61, nombre: "El libro que tu pastor quiere que leas", tipo: "Libro" },
+    { id: 62, nombre: "Salvos sin lugar a dudas", tipo: "Libro" },
+    { id: 63, nombre: "Biblia de referencia Thompson", tipo: "Biblia" },
 ];
